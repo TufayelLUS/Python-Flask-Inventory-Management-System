@@ -5,7 +5,7 @@ Under development ...
 # To-Do list
 - [x] Create a landing page
 - [x] Create a login page
-- [ ] Create a sign up page
+- [x] Create a sign up page
 - [ ] Create a dashboard
 - [ ] Create a database
 - [ ] Integrate the system with the database
